@@ -2,25 +2,25 @@
 <html>
 
   <head>
-    <title>Midori's Blog</title>
+    <title> How monkeys do a "siesta" </title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
       /* https://fonts.google.com/specimen/Roboto+Slab */ 
-      @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
 
       body {
-        background-color: #f4c2c2;
+        background-color: #D3D3D3;
         color: #5F021F;
-        font-family: 'Roboto Slab', serif;
+        font-family: 'Bakbak One', cursive;
         padding: 16px;
       }
       
       h1 {
-        color: purple;
+        color: #FF69B4;
       }
 
       h2 {
-        color: blue;
+        color: #000000;
       }
     </style>
   
@@ -29,10 +29,10 @@
   <body>
     <header>
       <h1>
-        Midori's Blog
+        How Monkeys do a "siesta"
       </h1>
 
-      <img src="https://en.gravatar.com/userimage/1189369/9fcc57298f217e50ee34886b880a6491.png?size=400" />
+      <img src="	" />
     </header>
     <main>
       <article>
